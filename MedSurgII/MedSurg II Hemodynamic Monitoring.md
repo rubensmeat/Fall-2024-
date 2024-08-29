@@ -135,3 +135,5 @@ Goals: SMART goals
 
 
 		
+C:\Users\alexi\OneDrive\Documents\Obsidian Vault\Fall2024\
+
